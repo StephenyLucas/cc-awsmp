@@ -1,0 +1,6 @@
+customhost = "dataemployee.cmntgrvy4b3o.ap-south-1.rds.amazonaws.com"
+customuser = "ccaws"
+custompass = "bevakufs*06"
+customdb = "employee"
+custombucket = "ccemployee"
+customregion = "ap-south-1"
